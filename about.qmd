@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Aleksandar
+ ## About Me
+ 
+ My name is **Aleksandar Joksic**, and I graduated from *Faculty of Social Sciences and Humanities*
+ 
+ [Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
